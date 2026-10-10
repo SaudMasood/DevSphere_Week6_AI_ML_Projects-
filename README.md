@@ -1,19 +1,20 @@
- <div align="center">
-<img src=<p>
-"https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Welcome+to+my+Week+6+AI%2FML+Projects;Student+Success+Prediction+System;House+Price+Prediction+System;Building+Intelligent+Solutions+with+Python" alt="Animated project introduction"/>
+&#x20;\<div align="center">
 
+\<img src="[https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,40:1D4ED8,100:7C3AED&text=DevSphere%20Week%206&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Artificial%20Intelligence%20%26%20Machine%20Learning&descAlignY=60&descSize=17](https://capsule-render.vercel.app/api?type=waving\&height=220\&color=0:020617,40:1D4ED8,100:7C3AED\&text=DevSphere%20Week%206\&fontSize=42\&fontColor=FFFFFF\&fontAlignY=38\&desc=Artificial%20Intelligence%20%26%20Machine%20Learning\&descAlignY=60\&descSize=17)" width="100%" alt="DevSphere AI and ML banner"/>
 
-<p>
-<img src="https://img.shields.io/badge/Program-DevSphere%20Internship-2563EB?style=for-the-badge" alt="DevSphere"/>
-<img src="https://img.shields.io/badge/Week-06-7C3AED?style=for-the-badge" alt="Week 6"/>
-<img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/AI-Artificial%20Intelligence-9333EA?style=for-the-badge" alt="AI"/>
-<img src="https://img.shields.io/badge/ML-Machine%20Learning-0F766E?style=for-the-badge" alt="ML"/>
-</p>
+\<img src=\<p>
+"[https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Welcome+to+my+Week+6+AI%2FML+Projects;Student+Success+Prediction+System;House+Price+Prediction+System;Building+Intelligent+Solutions+with+Python](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=20\&pause=1000\&color=38BDF8\&center=true\&vCenter=true\&width=850\&lines=Welcome+to+my+Week+6+AI%2FML+Projects;Student+Success+Prediction+System;House+Price+Prediction+System;Building+Intelligent+Solutions+with+Python)" alt="Animated project introduction"/>
+
+\<img src="[https://img.shields.io/badge/Program-DevSphere%20Internship-2563EB?style=for-the-badge](https://img.shields.io/badge/Program-DevSphere%20Internship-2563EB?style=for-the-badge)" alt="DevSphere"/>
+\<img src="[https://img.shields.io/badge/Week-06-7C3AED?style=for-the-badge](https://img.shields.io/badge/Week-06-7C3AED?style=for-the-badge)" alt="Week 6"/>
+\<img src="[https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge\&logo=python\&logoColor=white)" alt="Python"/>
+\<img src="[https://img.shields.io/badge/AI-Artificial%20Intelligence-9333EA?style=for-the-badge](https://img.shields.io/badge/AI-Artificial%20Intelligence-9333EA?style=for-the-badge)" alt="AI"/>
+\<img src="[https://img.shields.io/badge/ML-Machine%20Learning-0F766E?style=for-the-badge](https://img.shields.io/badge/ML-Machine%20Learning-0F766E?style=for-the-badge)" alt="ML"/>
+\</p>
 
 **Developed by Saud Masood | BSCS Graduate | Flutter Developer | AI/ML Engineer**
 
-</div>
+\</div>
 
 ---
 
@@ -60,10 +61,10 @@ The projects are maintained in a single repository, with their datasets, predict
 
 ## 🔍 Project Overview
 
-| Project | Category | Main Purpose |
-|---|---|---|
+| Project                                               | Category                                   | Main Purpose                                                            |
+| ----------------------------------------------------- | ------------------------------------------ | ----------------------------------------------------------------------- |
 | AI Student Success Prediction & Recommendation System | Classification and neural-network concepts | Predict a synthetic pass/fail outcome and provide study recommendations |
-| House Price Prediction System | Regression | Estimate a synthetic house price from property features |
+| House Price Prediction System                         | Regression                                 | Estimate a synthetic house price from property features                 |
 
 Both projects demonstrate the process of preparing data, training models, evaluating results, and using trained models to make predictions from new inputs.
 
@@ -99,12 +100,12 @@ After the user enters student information, the trained model predicts a class an
 
 The student dataset contains these main columns:
 
-| Column | Description |
-|---|---|
-| `StudyHours` | Study hours represented in the dataset |
-| `Attendance` | Student attendance percentage |
-| `PreviousScore` | Previous academic score |
-| `Passed` | Synthetic target label indicating pass or fail |
+| Column          | Description                                    |
+| --------------- | ---------------------------------------------- |
+| `StudyHours`    | Study hours represented in the dataset         |
+| `Attendance`    | Student attendance percentage                  |
+| `PreviousScore` | Previous academic score                        |
+| `Passed`        | Synthetic target label indicating pass or fail |
 
 The dataset is generated programmatically and includes missing feature values for preprocessing practice.
 
@@ -173,14 +174,14 @@ The included dataset is generated using a synthetic pricing formula and is inten
 
 ### 📊 Dataset Description
 
-| Column | Description |
-|---|---|
-| `Area_sqft` | Property area in square feet |
-| `Bedrooms` | Number of bedrooms |
-| `Bathrooms` | Number of bathrooms |
-| `HouseAge` | House age used by the dataset |
+| Column        | Description                          |
+| ------------- | ------------------------------------ |
+| `Area_sqft`   | Property area in square feet         |
+| `Bedrooms`    | Number of bedrooms                   |
+| `Bathrooms`   | Number of bathrooms                  |
+| `HouseAge`    | House age used by the dataset        |
 | `Distance_km` | Distance feature used by the dataset |
-| `Price` | Synthetic target price |
+| `Price`       | Synthetic target price               |
 
 ### ⚙️ Workflow
 
@@ -227,18 +228,18 @@ The implemented workflow selects a model based on test-set RMSE.
 
 The following files are visible in the current repository screenshot.
 
-| File | Purpose |
-|---|---|
-| `README.md` | Project documentation |
-| `LICENSE` | Repository license |
-| `devsphere_animated_banner.gif` | Animated banner asset |
-| `house_prices_week6.csv` | Synthetic house-price dataset |
-| `house_price_prediction_result.csv` | House price prediction output |
-| `model_evaluation_results.csv` | Model evaluation results |
-| `student_performance_week6.csv` | Synthetic student performance dataset |
-| `student_prediction_result.csv` | Student prediction output |
+| File                                                     | Purpose                                                                            |
+| -------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| `README.md`                                              | Project documentation                                                              |
+| `LICENSE`                                                | Repository license                                                                 |
+| `devsphere_animated_banner.gif`                          | Animated banner asset                                                              |
+| `house_prices_week6.csv`                                 | Synthetic house-price dataset                                                      |
+| `house_price_prediction_result.csv`                      | House price prediction output                                                      |
+| `model_evaluation_results.csv`                           | Model evaluation results                                                           |
+| `student_performance_week6.csv`                          | Synthetic student performance dataset                                              |
+| `student_prediction_result.csv`                          | Student prediction output                                                          |
 | `week_6_artificial_intelligence_and_machine_learning...` | Combined project notebook or related file; confirm the complete filename on GitHub |
-| `Saud_Masood_DevSphere_Week_6_AI_ML_Final...` | Uploaded project report file; confirm whether it is the Word or PDF version |
+| `Saud_Masood_DevSphere_Week_6_AI_ML_Final...`            | Uploaded project report file; confirm whether it is the Word or PDF version        |
 
 **Note:** The screenshot shows truncated filenames for the report and notebook. Their exact extensions and full filenames should be confirmed in GitHub before linking to them.
 
@@ -275,27 +276,27 @@ This is a logical grouping for documentation, not a claim that the repository cu
 
 ## 🛠️ Technology Stack
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn"/>
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</p>
+\<p>
+\<img src="[https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)" alt="Python"/>
+\<img src="[https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)" alt="Pandas"/>
+\<img src="[https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)" alt="NumPy"/>
+\<img src="[https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)" alt="Scikit-learn"/>
+\<img src="[https://img.shields.io/badge/Matplotlib-11557C?style=flat-square](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)" alt="Matplotlib"/>
+\<img src="[https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)" alt="Seaborn"/>
+\<img src="[https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square\&logo=googlecolab\&logoColor=white)" alt="Google Colab"/>
+\<img src="[https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)" alt="GitHub"/>
+\</p>
 
-| Technology | Purpose |
-|---|---|
-| Python | Implementation of AI and ML workflows |
-| Pandas | Data handling and preprocessing |
-| NumPy | Numerical operations and synthetic data generation |
-| Scikit-learn | Model training, preprocessing, tuning, and evaluation |
-| Matplotlib | Visualization and plotting |
-| Seaborn | Statistical charts and correlation visualization |
-| Google Colab | Cloud-based notebook execution |
-| Git and GitHub | Version control and repository hosting |
+| Technology     | Purpose                                               |
+| -------------- | ----------------------------------------------------- |
+| Python         | Implementation of AI and ML workflows                 |
+| Pandas         | Data handling and preprocessing                       |
+| NumPy          | Numerical operations and synthetic data generation    |
+| Scikit-learn   | Model training, preprocessing, tuning, and evaluation |
+| Matplotlib     | Visualization and plotting                            |
+| Seaborn        | Statistical charts and correlation visualization      |
+| Google Colab   | Cloud-based notebook execution                        |
+| Git and GitHub | Version control and repository hosting                |
 
 ---
 
@@ -375,13 +376,13 @@ If a notebook expects a local CSV path, verify that the dataset is available in 
 
 The repository screenshot shows these CSV files:
 
-| Output file | Purpose |
-|---|---|
-| `student_performance_week6.csv` | Student dataset used for the AI project |
-| `student_prediction_result.csv` | Saved student prediction result |
-| `house_prices_week6.csv` | House-price dataset used for the ML project |
-| `house_price_prediction_result.csv` | Saved house price prediction result |
-| `model_evaluation_results.csv` | Model evaluation results |
+| Output file                         | Purpose                                     |
+| ----------------------------------- | ------------------------------------------- |
+| `student_performance_week6.csv`     | Student dataset used for the AI project     |
+| `student_prediction_result.csv`     | Saved student prediction result             |
+| `house_prices_week6.csv`            | House-price dataset used for the ML project |
+| `house_price_prediction_result.csv` | Saved house price prediction result         |
+| `model_evaluation_results.csv`      | Model evaluation results                    |
 
 Use the actual CSV contents to report numerical results. Do not assume a particular accuracy, F1-score, RMSE, or R² without checking the generated files.
 
@@ -406,9 +407,9 @@ This Week 6 work demonstrates practice with:
 
 ## 👨‍💻 Developer Profile
 
-<div align="center">
+\<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Saud+Masood;BSCS+Graduate;Flutter+Developer;AI%2FML+Engineer" alt="Animated developer profile"/>
+\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Saud+Masood;BSCS+Graduate;Flutter+Developer;AI%2FML+Engineer](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&pause=1000\&color=7C3AED\&center=true\&vCenter=true\&width=650\&lines=Saud+Masood;BSCS+Graduate;Flutter+Developer;AI%2FML+Engineer)" alt="Animated developer profile"/>
 
 ### Saud Masood
 
@@ -416,13 +417,13 @@ This Week 6 work demonstrates practice with:
 
 **Flutter Developer | AI/ML Engineer**
 
-📧 **Email:** [saudmasood974@gmail.com](mailto:saudmasood974@gmail.com)
+📧 **Email:** [saudmasood974@gmail.com](mailto\:saudmasood974@gmail.com)
 
-**Internship:** DevSphere Internship Program  
-**Domain:** Artificial Intelligence & Machine Learning  
+**Internship:** DevSphere Internship Program
+**Domain:** Artificial Intelligence & Machine Learning
 **Submission:** Week 6 — AI and ML Projects
 
-</div>
+\</div>
 
 ---
 
@@ -437,9 +438,9 @@ These projects are intended for educational and internship demonstration purpose
 
 ---
 
-<div align="center">
+\<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1D4ED8,100:020617&height=130&section=footer" width="100%" alt="Decorative footer banner"/>
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1D4ED8,100:020617&height=130&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:7C3AED,50:1D4ED8,100:020617\&height=130\&section=footer)" width="100%" alt="Decorative footer banner"/>
 
 **Built by Saud Masood**
 
@@ -447,4 +448,4 @@ These projects are intended for educational and internship demonstration purpose
 
 **Learn • Build • Evaluate • Improve**
 
-</div>
+\</div>
