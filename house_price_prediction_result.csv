@@ -1,0 +1,2 @@
+Area_sqft,Bedrooms,Bathrooms,HouseAge,Distance_km,PredictedPrice,Model
+444.0,5,6,89.0,7.0,100455.12,Linear Regression
