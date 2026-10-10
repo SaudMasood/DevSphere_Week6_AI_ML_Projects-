@@ -1,4 +1,7 @@
  <div align="center">
+<img src=<p>
+"https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Welcome+to+my+Week+6+AI%2FML+Projects;Student+Success+Prediction+System;House+Price+Prediction+System;Building+Intelligent+Solutions+with+Python" alt="Animated project introduction"/>
+
 
 <p>
 <img src="https://img.shields.io/badge/Program-DevSphere%20Internship-2563EB?style=for-the-badge" alt="DevSphere"/>
