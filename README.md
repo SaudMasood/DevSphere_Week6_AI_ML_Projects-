@@ -1,9 +1,5 @@
  <div align="center">
 
-<img src="[https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,40:1D4ED8,100:7C3AED&text=DevSphere%20Week%206&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Artificial%20Intelligence%20%26%20Machine%20Learning&descAlignY=60&descSize=17" width="100%" alt="DevSphere AI and ML ](https://github.com/SaudMasood/DevSphere_Week6_AI_ML_Projects-/blob/main/devsphere_animated_banner.gif)banner"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Welcome+to+my+Week+6+AI%2FML+Projects;Student+Success+Prediction+System;House+Price+Prediction+System;Building+Intelligent+Solutions+with+Python" alt="Animated project introduction"/>
-
 <p>
 <img src="https://img.shields.io/badge/Program-DevSphere%20Internship-2563EB?style=for-the-badge" alt="DevSphere"/>
 <img src="https://img.shields.io/badge/Week-06-7C3AED?style=for-the-badge" alt="Week 6"/>
